@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    border: 20px solid rgb(206, 208, 206);
+    width: 1000px;
+    margin:auto;
+    padding: 25px 18px;
+    border-radius: 50px;
+
+}
+
+.question {
+    margin-bottom: 20px;
+}
+
+.message {
+    margin-left: 10px;
+}
+
+#result {
+margin-top: 20px;
+font-weight: bold;
+}
+
+.correct {
+    color: green;
+}
+
+.incorrect {
+    color: red;
+}
